@@ -1,0 +1,83 @@
+.Findid{
+    max-width: 570px;
+    margin: 0 auto;
+    padding: 70px 0 70px;
+    
+   
+}
+
+/* 아이디 찾기 */
+.yourid{
+    max-width: 570px;
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.idlogin{
+    width: 575px;
+    height: 56px;
+    font-size: 18px;
+    
+    color: white;
+    background-color: #046241;
+    border: 2px solid #046241;
+    text-decoration: none;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+.idlogin:hover{
+    color: #046241;
+    background-color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.idimg{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+#Findid{
+    border: 1px solid #ccc;
+}
+#Findidimg{
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 20px 30px;
+    
+}
+#Findidimg img{
+    width: 100px;
+    height: 95px;
+}
+#Findidimg p{
+    text-align: center;
+    padding: 20px 0;
+    color: #ccc;
+}
+#Findidinput{
+    border-top: 1px solid #ccc;
+}
+#Findidinput input{
+    border-radius: 3px;
+    box-sizing: border-box;
+    max-width: 530px;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
